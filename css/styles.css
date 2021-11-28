@@ -146,6 +146,7 @@ a {
   font-size: 16px;
   line-height: 1.2;
   text-align: center;
+  color: var(--text-color);
 }
 
 /* /_ Футер сайта _/ */
